@@ -40,7 +40,6 @@ Where $P_1$ represents the surface character value and $P_2$ represents the char
 | **Logic Engine** | React 18 / Hooks |
 | **Vector Assets** | Lucide React |
 | **Styling** | Tailwind CSS JIT Engine |
-| **Export Utility** | jsPDF |
 | **Bundler** | Vite 4.x |
 
 ## Deployment & Development
