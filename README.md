@@ -57,11 +57,3 @@ npm run dev
 ```
 Developed for educational exploration in modern cryptography and spatial data visualization.
 ---
-
-### 2. How to "Download" it to GitHub
-Once you save that file, run these commands in your terminal to "upload/download" it to your live GitHub repository:
-
-```bash
-git add README.md
-git commit -m "docs: add professional technical readme"
-git push origin main
