@@ -47,7 +47,7 @@ To initialize the development environment:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/greedism/origami-cipher.git](https://github.com/greedism/origami-cipher.git)
+git clone https://github.com/greedism/origami-cipher.git
 
 # Install dependencies
 npm install
